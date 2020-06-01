@@ -6,7 +6,8 @@
 <li>Jquery</li>
 <li>Ajax</li>
 <li>web component</li>
-<ul>web pack</>
+<li>web pack</li>
 <li>API www.thesportsdb.com</>
+</ul>
 
-<p>cold rebuild form dicoing course by Rahma yudistira</p>
+<p>code BY : Rahma yudistira (yudistirachma.anaga@gmail.com)</p>
